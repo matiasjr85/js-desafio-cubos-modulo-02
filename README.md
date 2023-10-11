@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=matiasjr85.js-desafio-cubos-modulo-02)
+
 # Desafio modulo 02 - Cubos Academy
 
 Um desafio para desenvolver uma API para um Banco Digital. Nesta versão, com a possibilidade de futuras funcionalidades, os dados bancários (nome, agência, etc.) são imutáveis. O objetivo é criar uma RESTful API que permita realizar as seguintes operações:
